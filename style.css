@@ -1,0 +1,12 @@
+ul li{
+    list-style: none;
+}
+section{
+    margin-bottom:100px ;
+}
+footer{
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
