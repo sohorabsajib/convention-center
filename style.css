@@ -1,12 +1,43 @@
-ul li{
-    list-style: none;
+header{
+    background-color: white;
+}
+#carouselExampleCaptions {
+    margin-top:80px;
 }
 section{
     margin-bottom:100px ;
 }
 footer{
-    height: 200px;
+    height: 250px;
+    margin-bottom: 0 !important;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
+    
+    
+}
+footer img{
+    height: 40px;
+    width: 135px;
+    margin: 10px;
+}
+footer .row {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+footer .col-sm-12{
+    display: flex;
+    justify-content: center;
+    
+}
+footer .logos{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
 }
